@@ -1,2 +1,2 @@
-# cerouno
-Repository for the "Data Science" course of CeroUno.
+# Data Sciencie
+Gerardo R. Heredia
