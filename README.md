@@ -1,2 +1,17 @@
-# cerouno
+# Curso de Data Science en Cero Uno
 Repository for the "Data Science" course of CeroUno.
+
+# Changelog
+
+## 22 Febrero 2020
+- Se sube `final project/draft.md` con el planteamiento del proyecto final.
+- Se suben los cuadernos de ejercicios de Numpy y Pandas de la Semana 4:
+    - `Sesion 3 - Ejercicios Numpy y Pandas.ipynb`
+    - `Sesion 4 - Practica de Datos.ipynb`
+- Se sube el resto de la carpeta `4. Python Cientifico` solamente para tener versionado su contenido.
+- Se suben el cuaderno de la Divina Comedia: `Semana 3 - Sesion 3 - Python Basico.ipynb`
+- Se sube un cuaderno de ejercicios hecho en clase solamente para tenerlo versionado: `Semana 3 - Sesion 2 - Introduccion a Python.ipyb`
+- Solamente con el objetivo de tenerlas versionadas, se suben las carpetas:
+    - **1. Pensamiento Cientifico en DS**
+    - **2. Intro a Python 1**
+    - **3. Intro a Python 2**

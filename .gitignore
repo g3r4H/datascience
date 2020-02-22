@@ -130,3 +130,10 @@ dmypy.json
 
 # Visual Studio
 *.code-workspace
+.vscode
+
+# My files
+playground.py
+playground2.py
+dudas.txt
+test.txt
