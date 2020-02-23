@@ -15,3 +15,6 @@ Repository for the "Data Science" course of CeroUno.
     - **1. Pensamiento Cientifico en DS**
     - **2. Intro a Python 1**
     - **3. Intro a Python 2**
+
+## 23 Febrero 2020
+- Se sube 2da idea para proyecto final: **probabilidad en los juegos de azar de dados y ruleta**.
