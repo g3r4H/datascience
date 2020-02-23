@@ -1,5 +1,10 @@
 # Curso de Data Science en Cero Uno
-Repository for the "Data Science" course of CeroUno.
+
+Repositorio para los ejercicios del curso "Data Science" de CeroUno.
+
+## Alumno
+
+Gerardo Rios Heredia
 
 # Changelog
 
