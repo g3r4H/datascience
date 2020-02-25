@@ -23,3 +23,7 @@ Gerardo Rios Heredia
 
 ## 23 Febrero 2020
 - Se sube 2da idea para proyecto final: **probabilidad en los juegos de azar de dados y ruleta**.
+
+## 24 Febrero 2015
+- Se reorganizan los cuadernos en carpetas por semanas. Ahora, todo se organizará explícitamente por semanas, donde cada semana se agregará una nueva carpeta.
+- El cuaderno de los ejercicios de la divina comedia se renombra a: `notebooks/week 3 - python basics/Intro a python 2/Actividad/divina comedia.ipynb`.
