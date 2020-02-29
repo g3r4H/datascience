@@ -24,6 +24,11 @@ Gerardo Rios Heredia
 ## 23 Febrero 2020
 - Se sube 2da idea para proyecto final: **probabilidad en los juegos de azar de dados y ruleta**.
 
-## 24 Febrero 2015
+## 24 Febrero 2020
 - Se reorganizan los cuadernos en carpetas por semanas. Ahora, todo se organizará explícitamente por semanas, donde cada semana se agregará una nueva carpeta.
 - El cuaderno de los ejercicios de la divina comedia se renombra a: `notebooks/week 3 - python basics/Intro a python 2/Actividad/divina comedia.ipynb`.
+
+## 29 Febrero 2020
+- Se sube Actividad de Soriana en: `notebooks/week 5 - webscrapping and API/Presentación/Webscrapping, Requests y BS4.ipynb`
+- Se sube Actividad de Mercado Libre en: `notebooks/week 5 - webscrapping and API/Actividad/Actividad semana 3.ipynb`
+- Se sube Se sube todo el material de la semana solamente para tenerlos versionado
