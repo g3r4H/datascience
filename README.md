@@ -32,3 +32,14 @@ Gerardo Rios Heredia
 - Se sube Actividad de Soriana en: `notebooks/week 5 - webscrapping and API/Presentación/Webscrapping, Requests y BS4.ipynb`
 - Se sube Actividad de Mercado Libre en: `notebooks/week 5 - webscrapping and API/Actividad/Actividad semana 3.ipynb`
 - Se sube Se sube todo el material de la semana solamente para tenerlos versionado
+
+## 6 Marzo 2020
+Se suben los archivos de la semana 6: **Visualización de Datos**.
+- Se sube el notebook **Introducción a Seaborn**: `notebooks/week 6 - data visualization/Introducción a Seaborn.ipynb`
+- Se sube el ejercicio en Tableau: `notebooks/week 6 - data visualization/tableau/*`:
+    - **/datasets**: son los Dataset usados en Tableau, se tratan de la [Encuesta de Stack Overflow a Desarrolladores en 2018](https://bit.ly/2QablP9). Los datasets están dentro del ZIP `stack_overflow_2018_developer_survey-datasets.zip`, y tiene los siguientes CSV:
+        - **survey_results_public.csv**: Son las respuestas de la encuesta. Cada registro representa las respuestas de un usuario.
+        - **survey_results_schema.csv**: Son las preguntas hechas en la encuesta
+        - **custom_stackoverflow_with_questions.csv**: Combina los dos dataset anteriores. Este dataset es el usado en Tableau para el ejercicio.
+    - **/charts**: son imágenes de las gráficas hechas en Tableau y usadas en la presentación en Power Point
+    - **/tableau_story.pdf**: es la presentación en Power Point guardada en PDF que muestra la historia construida en Tableau
